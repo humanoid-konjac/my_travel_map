@@ -9,6 +9,7 @@
 export const DATA_FILES = {
   site: new URL("../data/site.json", import.meta.url),
   countries: new URL("../data/countries.json", import.meta.url),
-  cities: new URL("../data/cities_all.json", import.meta.url),
+  cities: new URL("../data/cities.json", import.meta.url),
+  allCities: new URL("../data/cities_all.json", import.meta.url),
   routes: new URL("../data/routes.json", import.meta.url)
 };

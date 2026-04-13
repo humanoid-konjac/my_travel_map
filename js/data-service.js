@@ -16,7 +16,74 @@ export async function loadAppData() {
     fetchJson(DATA_FILES.routes)
   ]);
 
-  return { site, countries, cities, routes };
+  return {
+    site,
+    countries,
+    cities: await ensureRouteCities(cities, routes),
+    routes
+  };
+}
+
+/**
+ * 优先使用轻量城市数据；只有在路线引用缺失时才回退到全量城市库。
+ */
+async function ensureRouteCities(cities, routes) {
+  const missingCityNames = getMissingRouteCityNames(cities, routes);
+
+  if (!missingCityNames.length) {
+    return cities;
+  }
+
+  const allCities = await fetchJson(DATA_FILES.allCities);
+  const allCityLookup = new Map(allCities.map((city) => [city.name, city]));
+  const missingCities = missingCityNames
+    .map((name) => allCityLookup.get(name))
+    .filter(Boolean);
+
+  if (missingCities.length) {
+    console.warn(
+      `cities.json 缺少 ${missingCities.length} 个路线城市，已从 cities_all.json 补齐。`
+    );
+  }
+
+  return dedupeCitiesByName([...cities, ...missingCities]);
+}
+
+/**
+ * 找出路线里被引用、但当前轻量城市数据里还不存在的城市名称。
+ */
+function getMissingRouteCityNames(cities, routes) {
+  const cityNames = new Set(cities.map((city) => city.name));
+  const missing = new Set();
+
+  routes.forEach((route) => {
+    [route.from, route.to].forEach((name) => {
+      if (name && !cityNames.has(name)) {
+        missing.add(name);
+      }
+    });
+  });
+
+  return [...missing];
+}
+
+/**
+ * 合并城市列表时按名称去重，避免 fallback 数据重复插入。
+ */
+function dedupeCitiesByName(cities) {
+  const deduped = [];
+  const names = new Set();
+
+  cities.forEach((city) => {
+    if (!city?.name || names.has(city.name)) {
+      return;
+    }
+
+    names.add(city.name);
+    deduped.push(city);
+  });
+
+  return deduped;
 }
 
 /**
