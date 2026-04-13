@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Chengdu, China",
+    "countryCode": "CN",
+    "coordinates": [30.5728, 104.0668],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Kuche, China",
+    "countryCode": "CN",
+    "coordinates": [41.7481, 83.4575],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Kurla, China",
+    "countryCode": "CN",
+    "coordinates": [41.65, 86.1333],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Shenzhen, China",
+    "countryCode": "CN",
+    "coordinates": [22.5431, 114.0579],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Zhuhai, China",
+    "countryCode": "CN",
+    "coordinates": [22.2706, 113.5767],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Wuhan, China",
+    "countryCode": "CN",
+    "coordinates": [30.5928, 114.3055],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Shanghai, China",
+    "countryCode": "CN",
+    "coordinates": [31.2304, 121.4737],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Hangzhou, China",
+    "countryCode": "CN",
+    "coordinates": [30.2741, 120.1551],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Qingdao, China",
+    "countryCode": "CN",
+    "coordinates": [36.0671, 120.3826],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Guiyang, China",
+    "countryCode": "CN",
+    "coordinates": [26.5982, 106.7075],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Beijing, China",
+    "countryCode": "CN",
+    "coordinates": [39.9042, 116.4074],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Lijiang, China",
+    "countryCode": "CN",
+    "coordinates": [26.8764, 100.2237],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Guangzhou, China",
+    "countryCode": "CN",
+    "coordinates": [23.1291, 113.2644],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Tianjing, China",
+    "countryCode": "CN",
+    "coordinates": [39.0841, 117.2043],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Tokyo, Japan",
+    "countryCode": "JP",
+    "coordinates": [35.6762, 139.6503],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Nagoya, Japan",
+    "countryCode": "JP",
+    "coordinates": [35.1815, 136.9066],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Hongkong, China",
+    "countryCode": "CN",
+    "coordinates": [22.3193, 114.1694],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "New York, USA",
+    "countryCode": "US",
+    "coordinates": [40.7128, -74.006],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Cancun, Mexico",
+    "countryCode": "MX",
+    "coordinates": [21.1743, -86.8466],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Istanbul, Turkey",
+    "countryCode": "TR",
+    "coordinates": [41.0082, 28.9784],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Washington D.C., USA",
+    "countryCode": "US",
+    "coordinates": [38.9072, -77.0369],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Denver, USA",
+    "countryCode": "US",
+    "coordinates": [39.7392, -104.9903],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Pittsburgh, USA",
+    "countryCode": "US",
+    "coordinates": [40.4406, -79.9959],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Miami, USA",
+    "countryCode": "US",
+    "coordinates": [25.7617, -80.1918],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "San Francisco, USA",
+    "countryCode": "US",
+    "coordinates": [37.7749, -122.4194],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Urumqi, China",
+    "countryCode": "CN",
+    "coordinates": [43.8256, 87.6168],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Carol, Egypt",
+    "countryCode": "EG",
+    "coordinates": [30.033333, 31.233334],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Luxor, Egypt",
+    "countryCode": "EG",
+    "coordinates": [25.6872, 32.6396],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Chongqing, China",
+    "countryCode": "CN",
+    "coordinates": [29.3349, 106.3301],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Taipei, China",
+    "countryCode": "CN",
+    "coordinates": [25.033, 121.5654],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Harbin, China",
+    "countryCode": "CN",
+    "coordinates": [45.8038, 126.534],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Fuzhou, China",
+    "countryCode": "CN",
+    "coordinates": [26.0745, 119.2965],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Kunming, China",
+    "countryCode": "CN",
+    "coordinates": [25.043333, 102.706108],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Toronto, Canada",
+    "countryCode": "CA",
+    "coordinates": [43.65107, -79.347015],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Orlando, USA",
+    "countryCode": "US",
+    "coordinates": [28.538336, -81.379234],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Milan, Italy",
+    "countryCode": "IT",
+    "coordinates": [45.464664, 9.18854],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Lyon, France",
+    "countryCode": "FR",
+    "coordinates": [45.76342, 4.834277],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Barcelona, Spain",
+    "countryCode": "ES",
+    "coordinates": [41.390205, 2.154007],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Madrid, Spain",
+    "countryCode": "ES",
+    "coordinates": [40.4168, -3.7038],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Aarhus, Denmark",
+    "countryCode": "DK",
+    "coordinates": [56.1567, 10.2108],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  },
+  {
+    "name": "Copenhagen, Denmark",
+    "countryCode": "DK",
+    "coordinates": [55.6761, 12.5683],
+    "visitDate": "",
+    "stayLength": "",
+    "description": "",
+    "notes": "",
+    "photos": []
+  }
+]

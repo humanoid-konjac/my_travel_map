@@ -1,0 +1,98 @@
+[
+  {
+    "code": "CN",
+    "name": "China",
+    "flag": "https://flagcdn.com/w80/cn.png",
+    "note": ""
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "flag": "https://flagcdn.com/w80/us.png",
+    "note": ""
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "flag": "https://flagcdn.com/w80/mx.png",
+    "note": ""
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "flag": "https://flagcdn.com/w80/fr.png",
+    "note": ""
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "flag": "https://flagcdn.com/w80/es.png",
+    "note": ""
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "flag": "https://flagcdn.com/w80/it.png",
+    "note": ""
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "flag": "https://flagcdn.com/w80/dk.png",
+    "note": ""
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "flag": "https://flagcdn.com/w80/eg.png",
+    "note": ""
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "flag": "https://flagcdn.com/w80/tr.png",
+    "note": ""
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "flag": "https://flagcdn.com/w80/jp.png",
+    "note": ""
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "flag": "https://flagcdn.com/w80/ca.png",
+    "note": ""
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "flag": "https://flagcdn.com/w80/ch.png",
+    "note": ""
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "flag": "https://flagcdn.com/w80/th.png",
+    "note": ""
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "flag": "https://flagcdn.com/w80/my.png",
+    "note": ""
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "flag": "https://flagcdn.com/w80/vn.png",
+    "note": ""
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "flag": "https://flagcdn.com/w80/kh.png",
+    "note": ""
+  }
+]

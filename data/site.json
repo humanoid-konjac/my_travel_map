@@ -1,0 +1,15 @@
+{
+  "title": "My Travel Map",
+  "subtitle": "可视化展示我的旅行足迹",
+  "panelNote": "点击城市点位查看旅行信息和照片；暂时缺失的数据已经留空，后续只需要编辑 data 目录下的 JSON。",
+  "defaultView": {
+    "center": [28, 18],
+    "zoom": 2
+  },
+  "tileLayer": {
+    "url": "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    "attribution": "&copy; OpenStreetMap contributors &copy; CARTO",
+    "subdomains": "abcd",
+    "maxZoom": 20
+  }
+}
